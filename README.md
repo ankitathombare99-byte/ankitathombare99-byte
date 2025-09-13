@@ -34,4 +34,6 @@
 ## 📫 Connect with Me
 - ✉️ Email: ankitathombare99@gmail.com  
 
+## 🐍 Contribution Snake Animation
 
+![Snake animation](https://github.com/ankitathombare99-byte/ankitathombare99-byte/blob/output/github-contribution-grid-snake.svg)
