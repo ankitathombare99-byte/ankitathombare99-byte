@@ -36,4 +36,4 @@
 
 ## 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/ankitathombare99-byte/ankitathombare99-byte/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ankitathombare99-byte/ankitathombare99-byte/output/github-contribution-grid-snake.svg)
