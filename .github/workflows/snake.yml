@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # दररोज आपोआप चालेल
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ankitathombare99-byte
+          outputs: dist/snake.svg
+
+      - name: Push Snake Animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Generated Snake Animation"
+          add: "dist/snake.svg"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/snake.svg
