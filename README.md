@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitathombare99-byte&show_icons=true&theme=radical)  
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitathombare99-byte&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitathombare99-byte&layout=compact&theme=radical)  
 
 ---
