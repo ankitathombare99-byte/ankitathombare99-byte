@@ -5,6 +5,8 @@
 🌱 Currently learning: **HTML, CSS, JavaScript, Python**  
 🚀 Love building projects and improving my coding skills every day  
 
+![Profile Views](https://komarev.com/ghpvc/?username=ankitathombare99-byte&color=blue)  
+
 ---
 
 ## 🔧 Technologies & Tools  
@@ -32,9 +34,11 @@
 
 ---
 
-## 📫 Connect with Me  
-- 📧 Email: **ankitathombare99@gmail.com**  
-- 🌐 Portfolio: *Coming Soon...*  
-- 💼 LinkedIn: *(add your link here when ready)*  
+## 🌐 Connect with Me  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitathombare99@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitathombare99-byte)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
 
 ⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
