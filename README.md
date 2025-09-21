@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Ankita Thombare  
+<!-- Banner Image -->
+![Welcome Banner](https://github.com/ankitathombare99-byte/ankitathombare99-byte/blob/main/banner.png)                    # 👋 Hi, I'm Ankita Thombare  
 
 🎓 First-year Diploma Student in **Computer Engineering (K-Scheme)**  
 💻 Passionate about **Web Development, Programming, and Technology**  
